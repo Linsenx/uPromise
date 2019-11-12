@@ -1,0 +1,13 @@
+{
+  "name": "u-promise",
+  "version": "0.0.1",
+  "main": "uPromise.ts",
+  "license": "MIT",
+  "scripts": {
+    "test": "ts-node ./runtest.ts"
+  },
+  "devDependencies": {
+    "promises-aplus-tests": "~2",
+    "typescript": "^3.7.2"
+  }
+}
